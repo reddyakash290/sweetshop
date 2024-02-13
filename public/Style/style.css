@@ -89,7 +89,7 @@ a:last-child {
 }
 
 .back-img {
-  background-image: url("/public/img/bb.jpg");
+  background-image: url("bb.jpg");
   background-size: cover;
   height: 100vh;
 }
